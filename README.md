@@ -18,5 +18,5 @@ ___
     - [C++](CS/C++)
     - [Java](CS/Java)
     - [Web Development](CS/Web%20Development)
-  -[Game Design](Game%20Design)
-  -[Math](Math)
+  - [Game Design](Game%20Design)
+  - [Math](Math)
