@@ -1,6 +1,6 @@
 # Math Notes
 
-![Equation](CodeCogsEqn.svg)
+![Equation](CodeCogsEqn.png)
 
 ![Graph](image_2021-07-25_141552.png)
 
