@@ -1,6 +1,6 @@
 # Math Notes
 
-$ c^4 = 5 / [k - h] $
+![Equation](CodeCogsEqn.svg)
 
 ![Graph](image_2021-07-25_141552.png)
 
