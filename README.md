@@ -10,3 +10,7 @@ If you are interested in learning how the notes are created please follow the co
 - [Jupyter Notebooks]()
 
 > Feel free to use these notes how you see fit as long as it obeys school and community guidlines.
+
+___
+
+
