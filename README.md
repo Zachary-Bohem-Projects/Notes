@@ -15,6 +15,6 @@ ___
 
 - [Notes]()
   - [Computer Science](CS)
-    -[C++](CS/C++)
-    -[Java](CS/Java)
-    -[Web Development](CS/Web%20Development)
+    - [C++](CS/C++)
+    - [Java](CS/Java)
+    - [Web Development](CS/Web%20Development)
