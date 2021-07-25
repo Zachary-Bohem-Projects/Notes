@@ -13,5 +13,5 @@ If you are interested in learning how the notes are created please follow the co
 
 ___
 
-- [Notes](#notes)
+- [Notes](Zachary-Bohem-Projects/Notes)
   - [This is a collection of notes created by *_Zachary Boehm_*](#this-is-a-collection-of-notes-created-by-zachary-boehm)
