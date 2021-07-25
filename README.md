@@ -13,7 +13,7 @@ If you are interested in learning how the notes are created please follow the co
 
 ___
 
-- [Notes](Notes/blob)
+- [Notes](Notes)
   - [Computer Science](CS)
     - [C++](CS/C++)
     - [Java](CS/Java)
