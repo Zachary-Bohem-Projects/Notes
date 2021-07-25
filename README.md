@@ -13,5 +13,8 @@ If you are interested in learning how the notes are created please follow the co
 
 ___
 
-- [Notes](Zachary-Bohem-Projects/Notes)
-  - [This is a collection of notes created by *_Zachary Boehm_*](#this-is-a-collection-of-notes-created-by-zachary-boehm)
+- [Notes]()
+  - [Computer Science](CS)
+    -[C++](CS/C++)
+    -[Java](CS/Java)
+    -[Web Development](CS/Web%20Development)
