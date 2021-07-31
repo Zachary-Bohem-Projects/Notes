@@ -5,7 +5,7 @@ These notes are created using markdown and Jupyter Notebooks.
 
 If you are interested in learning how the notes are created please follow the corresponding links to the guides.
 
-- [Markdown](Markdown.md)
+- [Markdown](https://markdown-it.github.io/)
 
 - [Jupyter Notebooks](Jupyter%20Notebook.ipynb)
 
